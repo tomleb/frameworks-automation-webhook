@@ -1,4 +1,4 @@
-github.com/tomleb/frameworks-automation-norman v0.8.0 h1:75jlxub2oTIeawQMTGXbohcO+A9rnr68eo0U/TPVm2g=
-github.com/tomleb/frameworks-automation-norman v0.8.0/go.mod h1:J7cdRKjAXaIJiOtE1PTthqnmbvrTbDotQjBmMq96w+k=
-github.com/tomleb/frameworks-automation-wrangler v0.5.0 h1:O6+UIdwWaHj/zYW0cUjI2j7U4GzUOkMoWZ669p3WBJc=
-github.com/tomleb/frameworks-automation-wrangler v0.5.0/go.mod h1:8mMgUgV9vfb1nkSN7LC9Y1V7azkyLYvH46eSSdK3LaU=
+github.com/tomleb/frameworks-automation-norman v0.7.1 h1:C7uyjMHOWDTUlofSBS/mSapN6yN8GqENf75IHW/XnDI=
+github.com/tomleb/frameworks-automation-norman v0.7.1/go.mod h1:TYb4Dtoke3EYCc7BK9ayX6iqTZoqmLWxfzfm6iwMmG8=
+github.com/tomleb/frameworks-automation-wrangler v0.5.6 h1:BD2lpgp29uK1EaHT/hiEnx0dBGxkS8ZuE76OpDFGbTc=
+github.com/tomleb/frameworks-automation-wrangler v0.5.6/go.mod h1:8mMgUgV9vfb1nkSN7LC9Y1V7azkyLYvH46eSSdK3LaU=
